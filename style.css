@@ -158,8 +158,17 @@ p {
   }
   .score-section {
     width: 100%;
+    border-top-left-radius: 0px;
   }
   .summary-section {
     width: 100%;
   }
+}
+
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsla(256, 72%, 46%, 1);
 }
